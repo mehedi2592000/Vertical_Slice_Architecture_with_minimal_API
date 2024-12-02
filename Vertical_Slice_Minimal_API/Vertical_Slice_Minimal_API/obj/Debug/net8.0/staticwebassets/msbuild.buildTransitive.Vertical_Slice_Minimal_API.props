@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Vertical_Slice_Minimal_API.props" />
+</Project>

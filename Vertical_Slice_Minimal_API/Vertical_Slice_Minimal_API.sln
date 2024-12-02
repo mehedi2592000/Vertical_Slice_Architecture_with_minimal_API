@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertical_Slice_Minimal_API", "Vertical_Slice_Minimal_API\Vertical_Slice_Minimal_API.csproj", "{B9FB5657-5A6A-421F-92DA-A404321CFECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FB5657-5A6A-421F-92DA-A404321CFECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB5657-5A6A-421F-92DA-A404321CFECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB5657-5A6A-421F-92DA-A404321CFECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB5657-5A6A-421F-92DA-A404321CFECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CDCE79-7EF5-49A6-AA14-DCC018E032C9}
+	EndGlobalSection
+EndGlobal

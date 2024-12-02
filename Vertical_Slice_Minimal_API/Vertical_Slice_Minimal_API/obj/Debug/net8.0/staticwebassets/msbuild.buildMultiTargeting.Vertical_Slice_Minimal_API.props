@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vertical_Slice_Minimal_API.props" />
+</Project>
